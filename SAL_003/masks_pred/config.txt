@@ -1,0 +1,1 @@
+Namespace(black_detect=False, black_loss_weight=1.0, bs=32, bs_inference=64, decay=0.0, dice_weight=1.0, do_eval=True, ds_ratio=1.0, epochs=100, experiment='SAL_003', fold='1', lr=0.0001, multi_gpu=False, network='xception_fpn', weights='', workers=8)

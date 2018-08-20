@@ -1,0 +1,1 @@
+mean_iou =0.129, mean_precision=0.032
